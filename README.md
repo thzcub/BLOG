@@ -1,0 +1,2 @@
+# BLOG
+ BLOG COM PYTHON- django
